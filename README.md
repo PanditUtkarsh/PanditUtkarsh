@@ -1,5 +1,6 @@
 # 💫 About Me: Student 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+![](https://static.wixstatic.com/media/2c778e_89d09c380b7b4a09bcdbcb329c4734b3~mv2.gif)
+
 - 🔭 I’m currently working on **Mini project**
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about **Mern**
